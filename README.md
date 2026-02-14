@@ -12,14 +12,14 @@ Power Bi.
 
 This dataset includes 5,000+ Netflix titles with information like:
 
-🎥 Title
-📅 Release Year
-⏱ Runtime
-⭐ IMDb Rating
-🗳 IMDb Votes
-🔞 Age Certification
-📺 Type (Movie or Show)
-📝 Description
+- Title
+- Release Year
+- Runtime
+- IMDb Rating
+- IMDb Votes
+- Age Certification
+- Type (Movie or Show)
+- Description
 
 **Note-** A few more columns have missing values, which were handled during data cleaning.
 
