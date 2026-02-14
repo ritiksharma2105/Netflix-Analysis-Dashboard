@@ -46,8 +46,3 @@ This project helped me to improve:
 - When to use which chart
 - Dashboard design in Power BI
 - Finding insights from real datasets
-
-**📂 Project Files**
-- [Dataset File] (https://github.com/ritiksharma2105/Netflix-Analysis-Dashboard/blob/06e2f462e6a5b04553f2e8ad2379eaeec7aa8871/Netflix%20Analysis%20Dashboard-%20Ritik%20Sharma.pbix)
-- Power BI (.pbix file)
-- Dashboard screenshot
